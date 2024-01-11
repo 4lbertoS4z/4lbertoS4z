@@ -7,7 +7,7 @@
 ## Sobre mi
 
 - 📲 Mobile developer
-- 🎥 Te enseño a programar apps en [Youtube](https://www.youtube.com/channel/UCxGawUaNd2J4BCNJTt3AGvQ)
+- 🎥 Mi perfil de [Linkedin](https://www.linkedin.com/in/alberto-saz/)
 <br>
 
 ## Algunos de mis Proyectos
