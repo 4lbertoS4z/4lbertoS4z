@@ -10,7 +10,7 @@
 - 🎥 Te enseño a programar apps en [Youtube](https://www.youtube.com/channel/UCxGawUaNd2J4BCNJTt3AGvQ)
 <br>
 
-## Proyectos *bombitas*
+## Algunos de mis Proyectos
 <table>
 <tr>
 <td width="50%">
