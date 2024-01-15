@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/4lbertoS4z/imagenes-para-proyectos/main/logo2.png">
+<img src="https://raw.githubusercontent.com/4lbertoS4z/imagenes-para-proyectos/main/logo2.png" width="600">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxGawUaNd2J4BCNJTt3AGvQ?style=social)](https://www.youtube.com/channel/UCxGawUaNd2J4BCNJTt3AGvQ)
 [![GitHub followers](https://img.shields.io/github/followers/4lbertoS4z?style=social)](https://github.com/4lbertoS4z)
